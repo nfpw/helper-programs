@@ -1,1 +1,1 @@
-# put the bat insdie the bin folder of bunni
+# put the bat inside the bin folder of bunni
